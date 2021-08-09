@@ -50,7 +50,7 @@ void release_pid(int pid){
 
 int main(){
   int pid;
-  if(allocate_map()){
+  if(allocate_map() == 1){
     for(int i = 0; i < 15; i++){
       pid = allocate_pid();
       if(pid > 0){
