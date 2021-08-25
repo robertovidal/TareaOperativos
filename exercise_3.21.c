@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
+
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 int main(int argc, char *argv[]){
     int n;
     int pid;

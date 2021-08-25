@@ -7,6 +7,10 @@
 #include <string.h>
 #include <fcntl.h>
 #include <sys/mman.h>
+
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 int main(int argc, char *argv[]){
     int n;
     int pid;

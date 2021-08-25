@@ -3,6 +3,9 @@
 #include <sys/types.h>
 #include <unistd.h>
 
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 // NOTA: usando el comando ps -l en mi computadora no 
 // aparecía el proceso, pero usando este otro sí aparece
 // ps aux | grep exercise_3.19
